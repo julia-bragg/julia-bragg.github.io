@@ -1,0 +1,19 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Online & Print/Side Navigation and PDF/ */
+
+:root
+{
+	--Primary: #3E4C1A;
+	--FontFamily: serif;
+	--Darkest: #59634F;
+	--Light: #F5F6F0;
+	--Lightest: #FAFAF7;
+	--Dark: #000000;
+	--HeroImage: url('../Images/julialogo.png');
+	--LogoImage: url('../Images/julialogo.png');
+	--LogoImagePrint: url('../Images/julialogo.png');
+	--Secondary: #A3B18C;
+	--Medium: #000000;
+}
+
